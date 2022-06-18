@@ -1,0 +1,20 @@
+{
+  "contact": [
+    {
+      "name": "Richard Andrés",
+      "phone": 3213128404,
+      "dateOfBirth": "1989-10-12",
+      "address": "carrera 5 # 3",
+      "email": "info@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "paola andrea de oro alcazar",
+      "phone": 3024094605,
+      "dateOfBirth": "2006-03-16",
+      "address": "carrera 5 # 3",
+      "email": "pao@pao.com",
+      "id": 2
+    }
+  ]
+}
