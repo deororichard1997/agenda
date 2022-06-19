@@ -6,13 +6,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
+### 01 `npm start` agenda/services-api
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Para correr correctamente el proyecto primero debe ubicarse en la carpeta services-api que esta en la raiz, y ejecutar el comando npm start para montar el json server, 
+luego puede ejecutar el comando npm start en la ubicacion del proyecto
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 02 `npm start`
+
+Luego de montado el json server, ejecutamos npm start en el directorio del proyecto
+
 
 ### `npm test`
 
