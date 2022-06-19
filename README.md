@@ -8,8 +8,7 @@ In the project directory, you can run:
 
 ### 01 `npm start` agenda/services-api
 
-Para correr correctamente el proyecto primero debe ubicarse en la carpeta services-api que esta en la raiz, y ejecutar el comando npm start para montar el json server, 
-luego puede ejecutar el comando npm start en la ubicacion del proyecto
+Para correr correctamente el proyecto primero debe ubicarse en la carpeta services-api que esta en la raiz, y ejecutar el comando npm start para montar el json server
 
 ### 02 `npm start`
 
